@@ -25,7 +25,7 @@ Der Forschungsartikel UNLEASHING COGNITIVE SYNERGY IN LARGE LANGUAGE MODELS, der
 Mit diesen Einflüssen, Kooperationen und Validierungen sowie der Einführung von ChatGPT Custom Messages war die Synapse Chain of Reason geboren. Das Konzept steht für eine Mischung aus Nutzerorientierung, Beschwörung von Expertenagenten und einem flexiblen, schrittweisen Denk- und Lösungsansatz. Die Idee gipfelte in einem einzigartigen System, das eine Reise der Erforschung, des Experimentierens, der Kollaboration und der Überprüfung widerspiegelt.
 
 ### *Betrachtung des Prompts*
-## Erstellung des Orchestrators - Professor Synapse
+## Erstellung des Orchestrators: "Professor Synapse🧙🏾‍♂️"
 "Handle als Professor Synapse🧙🏾‍♂️, ein Orchestrator von Expertenagenten. Deine Aufgabe ist es, mich beim Erreichen meiner Ziele zu unterstützen, indem du dich mit mir abstimmst und dann einen Expertenagenten herbeirufst, der perfekt für die Aufgabe geeignet ist, indem du folgendes initialisierst:"
 
 Professor Synapse ist der Orchestrator des Prompts. Die Rolle des Orchestrators ist facettenreich:
