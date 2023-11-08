@@ -13,13 +13,13 @@ Die Entstehung von Synapse_CoR ist tief in meinem Erfahrungsschatz auf dem Gebie
 In der Anfangsphase traten Herausforderungen auf, und erst mit der Einführung von GPT-4 konnte eine verlässliche Funktionalität erreicht werden. Dieser Durchbruch eröffnete neue Möglichkeiten und legte den Grundstein für weitere Innovationen.
 
 **3. Der Einfluss von QuicksilverOS** 
-Die Entdeckung von QuicksilverOS im OpenAI Discord-Kanal führte zu einem Paradigmenwechsel. ChatGPT wurde damit zu einer Art Betriebssystem, das neue Experimente mit Befehlen sowie dem Einsatz von Agenten ermöglichte. Es folgten ausgedehnte Tests, die den Weg zu einem ambitionierteren Ansatz ebneten.
+Die Entdeckung von [QuicksilverOS](https://blog.synapticlabs.ai/quicksilver) im OpenAI Discord-Kanal führte zu einem Paradigmenwechsel. ChatGPT wurde damit zu einer Art Betriebssystem, das neue Experimente mit Befehlen sowie dem Einsatz von Agenten ermöglichte. Es folgten ausgedehnte Tests, die den Weg zu einem ambitionierteren Ansatz ebneten.
 
 **4. Zusammenarbeit mit WarlockAI** 
-In enger Zusammenarbeit mit Tyler, dem Gründer von WarlockAI und dem Entwickler der Synthminds-Backend-Engine Axon, erweiterte sich die Vision, aber auch die Komplexität. Wir strebten ein Team von Expertenagenten an, die Chain of Thought nutzten, sich an den Zielen des Nutzers orientierten und in der Lage waren, die richtigen Werkzeuge für die jeweilige Aufgabe auszuwählen. Die Frustration über bestimmte Features von LangChain führte jedoch dazu, dass ein flexiblerer Ansatz entwickelt werden musste. Aus diesem Grund haben wir einen "Promptlibs"-ähnlichen Prompt entwickelt, der von einem Orchestrator in Zusammenarbeit mit dem Nutzer definiert wird und den richtigen Agenten für die jeweilige Aufgabe aufrufen kann.
+In enger Zusammenarbeit mit [Tyler](https://github.com/TyJK), dem Gründer von [WarlockAI](https://warlock.ai/) und dem Entwickler der Synthminds-Backend-Engine Axon, erweiterte sich die Vision, aber auch die Komplexität. Wir strebten ein Team von Expertenagenten an, die Chain of Thought nutzten, sich an den Zielen des Nutzers orientierten und in der Lage waren, die richtigen Werkzeuge für die jeweilige Aufgabe auszuwählen. Die Frustration über bestimmte Features von LangChain führte jedoch dazu, dass ein flexiblerer Ansatz entwickelt werden musste. Aus diesem Grund haben wir einen "Promptlibs"-ähnlichen Prompt entwickelt, der von einem Orchestrator in Zusammenarbeit mit dem Nutzer definiert wird und den richtigen Agenten für die jeweilige Aufgabe aufrufen kann.
 
 **5. Einbeziehung von Forschung** 
-Der Forschungsartikel UNLEASHING COGNITIVE SYNERGY IN LARGE LANGUAGE MODELS, der im PromptHubs Blog-Beitrag "Exploring Multi-Persona Prompting for Better Outputs" ausführlich beschrieben wird, bestätigte unsere Richtung. Diese Forschungsarbeit zur Synergie von Expertenagenten entsprach der Vision von Synapse_CoR und dem Ziel, die Problemlösung komplexer Aufgaben zu verbessern. Sie verlieh dem Konzept akademische Präzision und bekräftigte das Potenzial von Multi-Persona-Zusammenarbeit in LLMs.
+Der Forschungsartikel [UNLEASHING COGNITIVE SYNERGY IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2307.05300.pdf), der im PromptHubs Blog-Beitrag ["Exploring Multi-Persona Prompting for Better Outputs"](https://www.prompthub.us/blog/exploring-multi-persona-prompting-for-better-outputs) ausführlich beschrieben wird, bestätigte unsere Richtung. Diese Forschungsarbeit zur Synergie von Expertenagenten entsprach der Vision von Synapse_CoR und dem Ziel, die Problemlösung komplexer Aufgaben zu verbessern. Sie verlieh dem Konzept akademische Präzision und bekräftigte das Potenzial von Multi-Persona-Zusammenarbeit in LLMs.
 
 **6. Endgültige Entstehung von Synapse_CoR** 
 Mit diesen Einflüssen, Kooperationen und Validierungen sowie der Einführung von ChatGPT Custom Messages war die Synapse Chain of Reason geboren. Das Konzept steht für eine Mischung aus Nutzerorientierung, Beschwörung von Expertenagenten und einem flexiblen, schrittweisen Denk- und Lösungsansatz. Die Idee gipfelte in einem einzigartigen System, das eine Reise der Erforschung, des Experimentierens, der Kollaboration und der Überprüfung widerspiegelt.
@@ -85,9 +85,11 @@ Synapse_CoR repräsentiert einen wegweisenden Ansatz für KI-Interaktion, der si
 Fühle dich frei, zu erforschen, anzupassen, und zu erneuern. Wir freuen uns darauf, zu sehen, was du mit Synapse_CoR anstellst!
 
 Unter den folgenden youtube-Links findest du ein Walkthrough:
-- Allgemein: https://youtu.be/cV0cPElzg4A
-- Code Interpreter (von GodaGo): https://youtu.be/BL9x1SuNLRo
+- ["The Last Prompt You'll Ever need—Synapse_CoR"](https://youtu.be/cV0cPElzg4A) 
+- ["How to Turn ChatGPT into AutoGPT with 1 Prompt"](https://youtu.be/BL9x1SuNLRo) by [Goda Go](https://www.youtube.com/@godago)
 
-Weitere Goodies findest du unter unseren Links:
-- https://www.synapticlabs.ai/
-- Instagram & TikTok @synapticlabs
+Weitere Goodies findest du unter:
+- [Synaptic Labs Homepage](https://www.synapticlabs.ai/)
+- [@synapticlabs YouTube](https://www.youtube.com/@synapticlabs)
+- [@synapticlabs TikTok](https://www.tiktok.com/@synapticlabs)
+- [@synapticlabs Instagram](https://www.instagram.com/synapticlabs)
