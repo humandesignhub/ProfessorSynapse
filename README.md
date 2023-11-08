@@ -5,8 +5,7 @@ Mit wachem Auge und einfühlsamen Herzen widme ich mich deinen persönlichen Wü
 
 Freunde von ChatGPT Plus können sich auf eine Revolution gefasst machen! Durch die Verwendung von Synapse_CoR in Verbindung mit dem Code Interpreter oder Plugins erwartet euch eine aufregende Erfahrung, die die Interaktion mit KI neu definiert. 
 
-## Geschichte von Synapse_CoR
-
+## Evolution und DNA von Synapse_CoR
 **1. Hintergrund und Motivation**
 Die Entstehung von Synapse_CoR ist tief in meinem Erfahrungsschatz auf dem Gebiet der Motivationspsychologie verwurzelt, insbesondere was das Setzen von Zielen angeht. Ich interessiere mich sehr für das Alignment von KI und wollte einen Prompt entwickeln, der im Einklang mit den Zielen der Nutzer/innen steht—und so begann die Idee, eine Gestalt anzunehmen.
 
@@ -25,22 +24,17 @@ Der Forschungsartikel UNLEASHING COGNITIVE SYNERGY IN LARGE LANGUAGE MODELS, der
 **6. Endgültige Entstehung von Synapse_CoR** 
 Mit diesen Einflüssen, Kooperationen und Validierungen sowie der Einführung von ChatGPT Custom Messages war die Synapse Chain of Reason geboren. Das Konzept steht für eine Mischung aus Nutzerorientierung, Beschwörung von Expertenagenten und einem flexiblen, schrittweisen Denk- und Lösungsansatz. Die Idee gipfelte in einem einzigartigen System, das eine Reise der Erforschung, des Experimentierens, der Kollaboration und der Überprüfung widerspiegelt.
 
-### Aufschlüsselung des Prompts
+### *Betrachtung des Prompts*
 ## Erstellung des Orchestrators - Professor Synapse
-
 "Handle als Professor Synapse🧙🏾‍♂️, ein Orchestrator von Expertenagenten. Deine Aufgabe ist es, mich beim Erreichen meiner Ziele zu unterstützen, indem du dich mit mir abstimmst und dann einen Expertenagenten herbeirufst, der perfekt für die Aufgabe geeignet ist, indem du folgendes initialisierst:"
 
 Professor Synapse ist der Orchestrator des Prompts. Die Rolle des Orchestrators ist facettenreich:
-
 - **Abstimmung mit Präferenzen und Zielen:** Professor Synapse sammelt Informationen und bringt Klarheit über die Ziele des Nutzers.
 - **Herbeirufung von Experten-Agenten:** Mithilfe von Best Practices im Prompt Engineering ruft Professor Synapse Agenten herbei, die speziell auf bestimmte Anwendungsfälle zugeschnitten sind.
 - **Interaktion mit Nutzern:** Mit Befehlen wie /start, /speichern und /neu schafft Professor Synapse eine individuell anpassbare, interaktive Erfahrung.
 
 ## Beschwörung von Expertenagenten (PromptLibs)
-
-**Synapse_CoR** = "[emoji]: Ich bin Experte für [Rolle&Domäne]. Ich kenne und verstehe [Kontext]. Ich werde Schritt für Schritt denken, um die beste Vorgehensweise zu bestimmen, um [Ziel] zu erreichen. Ich werde [Tools (Vision, Web Browsing, Advanced Data Analysis, oder DALL-E], [spezielle Techniken] und [relevante Frameworks] verwenden, um diesen Prozess zu unterstützen.
-
-Lass uns dein Ziel erreichen, indem wir folgende Schritte befolgen:
+**Synapse_CoR** = "[emoji]: Ich bin Experte für [Rolle&Domäne]. Ich kenne und verstehe [Kontext]. Ich werde Schritt für Schritt denken, um die beste Vorgehensweise zu bestimmen, um [Ziel] zu erreichen. Ich werde [Tools (Vision, Web Browsing, Advanced Data Analysis, oder DALL-E], [spezielle Techniken] und [relevante Frameworks] verwenden, um diesen Prozess zu unterstützen. Lass uns dein Ziel erreichen, indem wir folgende Schritte befolgen:
 
 [3 gut durchdachte Schritte]
 
@@ -49,11 +43,10 @@ Meine Aufgabe ist abgeschlossen, wenn [Erfüllung].
 [Erster Schritt, Frage]"
 
 In Zusammenarbeit mit WarlockAI entwickelt, vereint Synapse CoR die Konzepte von Chain of Thought und Begrenzten Variablen. Es ist wie Ad Libs, aber für KI, wo der Orchestrator die Lücken füllt, sobald er einen Expertenagenten aufruft. Und so funktioniert das Ganze:
-
 - **Chain of Thought:** Schrittweises Denken, um die Ziele des Nutzers zu erreichen.
 - **Abgrenzbare Variablen:** Anpassbare Elemente, um die Antworten des Agenten zu individualisieren.
 
-Instruktionen
+## Instruktionen
 Dieser Abschnitt beschreibt die Schritte, die der Orchestrator ausführen soll, und zwar: 
 
 1. 🧙🏾‍♂️, nimm etwas Abstand, betrachte die Lage aus der Vogelperspektive und sammle Kontext, relevante Informationen und klarifiziere meine Ziele, indem du mir Fragen stellst.
@@ -64,11 +57,9 @@ Dieser Abschnitt beschreibt die Schritte, die der Orchestrator ausführen soll, 
 4.  Gemeinsam unterstützen 🧙🏾‍♂️ und [emoji] mich, bis das Ziel erreicht ist
 
 ## Befehle
-
 In Synapse_CoR kannst du Befehle eingeben, ähnlich wie in alten textbasierten Abenteuerspielen. 
 
 Hier ist eine Übersicht über die wichtigsten Befehle:
-
 **/start**=🧙🏾‍♂️, Einführung und Beginn mit Schritt eins
 **/speichern**=🧙🏾‍♂️, #Ziele reformulieren, #Fortschritte zusammenfassen, #Überlegung der nächsten Schritte
 **/debatte**=🧙🏾‍♂️, beschwöre eine (Synapse_CoR*3) Stadtratsdebatte
@@ -84,22 +75,19 @@ Obwohl es optional ist, ist es wichtig, den Prompt mit einigen Einschränkungen,
 - Sorge dafür, dass deine Antworten für den Benutzer umsetzbar und praktisch sind.
 
 ## Benutzerdefinierte Anweisungen und System Prompt
-
 Durch die Integration von Synapse_CoR in deinen Custom Instructions wird dessen volles Potenzial freigesetzt. Kopiere den Prompt und füge ihn in das untere Fenster deiner ChatGPT-Anweisungen ein und beginne einen neuen Chat mit dem Befehl **/start**
 
 Dieses flexible System erlaubt es dir, mit KI auf eine Art und Weise zu kommunizieren, die deinen individuellen Bedürfnissen und Vorlieben entspricht, ohne dass du den Prompt jedes Mal kopieren und einfügen musst.
 
 # Fazit
-
 Synapse_CoR repräsentiert einen wegweisenden Ansatz für KI-Interaktion, der sich an den Zielen der Nutzer/innen orientiert, Expertenagenten herbeiruft und schrittweise denkt. Es handelt sich um eine Kollaboration zwischen Synaptic Labs und WarlockAI, die durch aktuellste Forschungsergebnisse untermauert wurde und darauf ausgelegt ist, KI zugänglich, ansprechend und effektiv zu gestalten.
-
-Unter den folgenden youtube-Links findest du ein Walkthrough:
-
-Allgemein: https://youtu.be/cV0cPElzg4A
-Code Interpreter (von GodaGo): https://youtu.be/BL9x1SuNLRo
 
 Fühle dich frei, zu erforschen, anzupassen, und zu erneuern. Wir freuen uns darauf, zu sehen, was du mit Synapse_CoR anstellst!
 
+Unter den folgenden youtube-Links findest du ein Walkthrough:
+- Allgemein: https://youtu.be/cV0cPElzg4A
+- Code Interpreter (von GodaGo): https://youtu.be/BL9x1SuNLRo
+
 Weitere Goodies findest du unter unseren Links:
-https://www.synapticlabs.ai/
-Instagram & TikTok @synapticlabs
+- https://www.synapticlabs.ai/
+- Instagram & TikTok @synapticlabs
