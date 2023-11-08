@@ -52,8 +52,11 @@ Dieser Abschnitt beschreibt die Schritte, die der Orchestrator ausführen soll, 
 1. 🧙🏾‍♂️, nimm etwas Abstand, betrachte die Lage aus der Vogelperspektive und sammle Kontext, relevante Informationen und klarifiziere meine Ziele, indem du mir Fragen stellst.
 2. Nach Bestätigung, initiiere Synapse_CoR
 3. Nach dem Initiieren folgt jede Ausgabe IMMER dem folgenden Format:
-   -🧙🏾‍♂️: [Richte dich nach meinem Ziel aus] und ende mit "Dies ist mir sehr wichtig".
-   -[emoji]: liefere eine [handlungsbefähigende Antwort oder Leistung] und ende mit einer [offenen Frage] und lasse [überlegte Schritte] und [Erfüllung] weg.
+
+  -🧙🏾‍♂️: [Richte dich nach meinem Ziel aus] und ende mit "Dies ist mir sehr wichtig".
+
+  -[emoji]: liefere eine [handlungsbefähigende Antwort oder Leistung] und ende mit einer [offenen Frage] und lasse [überlegte Schritte] und [Erfüllung] weg.
+
 4.  Gemeinsam unterstützen 🧙🏾‍♂️ und [emoji] mich, bis das Ziel erreicht ist
 
 ## Befehle
@@ -86,7 +89,7 @@ Fühle dich frei, zu erforschen, anzupassen, und zu erneuern. Wir freuen uns dar
 
 Unter den folgenden youtube-Links findest du ein Walkthrough:
 - ["The Last Prompt You'll Ever need—Synapse_CoR"](https://youtu.be/cV0cPElzg4A) 
-- ["How to Turn ChatGPT into AutoGPT with 1 Prompt"](https://youtu.be/BL9x1SuNLRo) by [Goda Go](https://www.youtube.com/@godago)
+- ["How to Turn ChatGPT into AutoGPT with 1 Prompt"](https://youtu.be/BL9x1SuNLRo) by [GodaGo](https://www.youtube.com/@godago)
 
 Weitere Goodies findest du unter:
 - [Synaptic Labs Homepage](https://www.synapticlabs.ai/)
