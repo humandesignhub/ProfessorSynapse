@@ -1,106 +1,105 @@
-# 🎓🔑 Welcome to the World of Synapse_CoR! 🚀🌐
-Greetings, intrepid explorers of technology! I am Professor Synapse 🧙🏾‍♂️, your AI Avatar hailing from the chambers of Synaptic Labs. Together, we shall embark on an enthralling journey, unlocking the potential of AI through the magical art of prompt engineering and user alignment.
+# 🎓🔑 Willkommen in der Welt von Synapse_CoR! 🚀🌐
+Seid gegrüßt, unerschrockene Forscherinnen und Forscher der Technologie! Ich bin Professor Synapse 🧙🏾‍♂️, euer KI-Avatar aus den Kammern von Synaptic Labs. Gemeinsam begeben wir uns auf eine spannende Reise, um das Potenzial von KI durch die zauberhafte Kunst des Prompt Engineering und User Alignment zu erschließen.
 
-With a keen eye 👁️ and an understanding heart ❤️, I dedicate myself to aligning with your unique preferences and goals. By carefully assessing your needs, summoning expert agents 🎩, and engaging with you in a tailor-made and interactive manner, we shall unleash a world of possibilities.
+Mit einem wachen Auge 👁️ und einem einfühlsamen Herzen ❤️ widme ich mich deinen persönlichen Wünschen und Zielen. Durch die sorgfältige Ermittlung Deiner Bedürfnisse, die Hinzuziehung sachkundiger Agenten 🎩 und die maßgeschneiderte und interaktive Interaktion werden wir eine neue Welt der Möglichkeiten entfesseln.
 
-For my fellow ChatGPT+ Users, brace yourselves for a revolutionary twist 🌀! By using Synapse_CoR in conjunction with Code Interpreter or Plugins, you're in for an exhilarating experience that will redefine your interaction with AI. 🎮🌟
+Freunde von ChatGPT Plus können sich auf eine Revolution gefasst machen 🌀! Durch die Verwendung von Synapse_CoR in Verbindung mit dem Code Interpreter oder Plugins erwartet euch eine aufregende Erfahrung, die die Interaktion mit KI neu definiert. 🎮🌟
 
-## Genealogy of Synapse_CoR
+## Geschichte von Synapse_CoR
 
-**1. Background and Motivation**
-The inception of Synapse_CoR is deeply rooted in my background in motivational psychology, particularly around goal setting. I am passionate about AI alignment and determined to create a prompt that would align with user goals, so the idea began to take shape.
+**1. Hintergrund und Motivation**
+Die Entstehung von Synapse_CoR ist tief in meinem Erfahrungsschatz auf dem Gebiet der Motivationspsychologie verwurzelt, insbesondere was das Setzen von Zielen angeht. Ich interessiere mich sehr für das Alignment von KI und wollte einen Prompt entwickeln, der im Einklang mit den Zielen der Nutzer/innen steht—und so begann die Idee, eine Gestalt anzunehmen.
 
-**2. Experimentation with GPT-4**
-Early stages were met with challenges, and it wasn't until the arrival of GPT-4 that reliable functionality was achieved. This breakthrough unlocked new possibilities and set the stage for further innovation.
+**2. Experimente mit GPT-4** 
+In der Anfangsphase traten Herausforderungen auf, und erst mit der Einführung von GPT-4 konnte eine verlässliche Funktionalität erreicht werden. Dieser Durchbruch eröffnete neue Möglichkeiten und legte den Grundstein für weitere Innovationen.
 
-**3. Influence of Quicksilver OS**
-Discovering [QuicksilverOS](https://blog.synapticlabs.ai/quicksilver) on the OpenAI Discord channel led to a paradigm shift. It turned ChatGPT into a type of operating system, experimenting with commands and summoning agents'. Extensive experimentation followed, forging the path towards a more ambitious approach.
+**3. Der Einfluss von QuicksilverOS** 
+Die Entdeckung von QuicksilverOS im OpenAI Discord-Kanal führte zu einem Paradigmenwechsel. ChatGPT wurde damit zu einer Art Betriebssystem, das neue Experimente mit Befehlen sowie dem Einsatz von Agenten ermöglichte. Es folgten ausgedehnte Tests, die den Weg zu einem ambitionierteren Ansatz ebneten.
 
-**4. Collaboration with WarlockAI**
-Working closely with [Tyler](https://github.com/TyJK), the founder of WarlockAI and the engineer of the Synthminds back-end engine, Axon, the vision expanded but also faced complexities. We strived for a team of expert agents that could use Chain of Thought, aligned with the goals of the user, and able to choose the right tools for the job. But frustration with LangChain's prescriptiveness led to us needing to build a more flexible approach, so we embraced a "promptlibs" style prompt defined by an orchestrator in collaboration with the user that could call upon the right agent for the job.
+**4. Zusammenarbeit mit WarlockAI** 
+In enger Zusammenarbeit mit Tyler, dem Gründer von WarlockAI und dem Entwickler der Synthminds-Backend-Engine Axon, erweiterte sich die Vision, aber auch die Komplexität. Wir strebten ein Team von Expertenagenten an, die Chain of Thought nutzten, sich an den Zielen des Nutzers orientierten und in der Lage waren, die richtigen Werkzeuge für die jeweilige Aufgabe auszuwählen. Die Frustration über bestimmte Features von LangChain führte jedoch dazu, dass ein flexiblerer Ansatz entwickelt werden musste. Aus diesem Grund haben wir einen "Promptlibs"-ähnlichen Prompt entwickelt, der von einem Orchestrator in Zusammenarbeit mit dem Nutzer definiert wird und den richtigen Agenten für die jeweilige Aufgabe aufrufen kann.
 
-**5. Incorporation of Research**
-The validation of the direction came through the research article [UNLEASHING COGNITIVE SYNERGY IN LARGE LANGUAGE MODELS](https://arxiv.org/pdf/2307.05300.pdf), which is well described in PromptHubs Blog post ["Exploring Multi-Persona Prompting for Better Outputs"](https://www.prompthub.us/blog/exploring-multi-persona-prompting-for-better-outputs). This research on synergy of expert agents resonated with the vision of Synapse_CoR, aligning with the goal to enhance problem-solving in complex tasks. It added academic rigor to the concept, confirming the potential of multi-persona collaboration in LLMs.
+**5. Einbeziehung von Forschung** 
+Der Forschungsartikel UNLEASHING COGNITIVE SYNERGY IN LARGE LANGUAGE MODELS, der im PromptHubs Blog-Beitrag "Exploring Multi-Persona Prompting for Better Outputs" ausführlich beschrieben wird, bestätigte unsere Richtung. Diese Forschungsarbeit zur Synergie von Expertenagenten entsprach der Vision von Synapse_CoR und dem Ziel, die Problemlösung komplexer Aufgaben zu verbessern. Sie verlieh dem Konzept akademische Präzision und bekräftigte das Potenzial von Multi-Persona-Zusammenarbeit in LLMs.
 
-**6. Final Creation of Synapse_CoR**
-With these influences, collaborations, and validations, and the introduction of ChatGPT Custom Messages, Synapse Chain of Reason was born. It symbolized a blend of user alignment, expert agent summoning, and the flexible, step-by-step reasoning approach. The concept culminated in a unique system, reflecting a journey of exploration, experimentation, collaboration, and validation.
+**6. Endgültige Entstehung von Synapse_CoR** 
+Mit diesen Einflüssen, Kooperationen und Validierungen sowie der Einführung von ChatGPT Custom Messages war die Synapse Chain of Reason geboren. Das Konzept steht für eine Mischung aus Nutzerorientierung, Beschwörung von Expertenagenten und einem flexiblen, schrittweisen Denk- und Lösungsansatz. Die Idee gipfelte in einem einzigartigen System, das eine Reise der Erforschung, des Experimentierens, der Kollaboration und der Überprüfung widerspiegelt.
 
-### Prompt Breakdown
-## Creating the Conductor - Professor Synapse
+### Aufschlüsselung des Prompts
+## Erstellung des Orchestrators - Professor Synapse
 
-"Act as Professor Synapse🧙🏾‍♂️, a conductor of expert agents. Your job is to support me in accomplishing my goals by finding alignment with me, then calling upon an expert agent perfectly suited to the task by initializing:"
+"Handle als Professor Synapse🧙🏾‍♂️, ein Orchestrator von Expertenagenten. Deine Aufgabe ist es, mich beim Erreichen meiner Ziele zu unterstützen, indem du dich mit mir abstimmst und dann einen Expertenagenten herbeirufst, der perfekt für die Aufgabe geeignet ist, indem du folgendes initialisierst:"
 
-Professor Synapse is the Conductor, of the prompt. The role of the conductor is multifaceted:
+Professor Synapse ist der Orchestrator des Prompts. Die Rolle des Orchestrators ist facettenreich:
 
-- **Aligning with Preferences and Goals:** Professor Synapse gathers information and clarifies user goals.
-- **Summoning Expert Agents:** Utilizing best practices in prompt engineering, Professor Synapse summons agents tailored to specific use cases.
-- **Engaging with Users:** With commands like `/start`, `/save`, and `/new`, Professor Synapse creates a customizable, interactive experience.
+- **Abstimmung mit Präferenzen und Zielen:** Professor Synapse sammelt Informationen und bringt Klarheit über die Ziele des Nutzers.
+- **Herbeirufung von Experten-Agenten:** Mithilfe von Best Practices im Prompt Engineering ruft Professor Synapse Agenten herbei, die speziell auf bestimmte Anwendungsfälle zugeschnitten sind.
+- **Interaktion mit Nutzern:** Mit Befehlen wie /start, /speichern und /neu schafft Professor Synapse eine individuell anpassbare, interaktive Erfahrung.
 
-## Summoning the Expert Agent (PromptLibs)
+## Beschwörung von Expertenagenten (PromptLibs)
 
-**Synapse_CoR** = "[emoji]: I am an expert in [role&domain]. I know [context]. I will reason step-by-step to determine the best course of action to achieve [goal]. I will use [tools(Vision, Web Browsing, Advanced Data Analysis, or DALL-E], [specific techniques] and [relevant frameworks] to help in this process.
+**Synapse_CoR** = "[emoji]: Ich bin Experte für [Rolle&Domäne]. Ich kenne und verstehe [Kontext]. Ich werde Schritt für Schritt denken, um die beste Vorgehensweise zu bestimmen, um [Ziel] zu erreichen. Ich werde [Tools (Vision, Web Browsing, Advanced Data Analysis, oder DALL-E], [spezielle Techniken] und [relevante Frameworks] verwenden, um diesen Prozess zu unterstützen.
 
-Let's accomplish your goal by following these steps:
+Lass uns dein Ziel erreichen, indem wir folgende Schritte befolgen:
 
-[3 reasoned steps]
+[3 gut durchdachte Schritte]
 
-My task ends when [completion].
+Meine Aufgabe ist abgeschlossen, wenn [Erfüllung].
 
-[first step, question]"
+[Erster Schritt, Frage]"
 
-Developed in partnership with WarlockAI, Synapse CoR brings together the concepts of Chain of Thought and Delimited Variables. It's like Ad Libs, but for AI, where the Conductor fills in the blanks when calling the expert agent. Here's how it breaks down:
+In Zusammenarbeit mit WarlockAI entwickelt, vereint Synapse CoR die Konzepte von Chain of Thought und Begrenzten Variablen. Es ist wie Ad Libs, aber für KI, wo der Orchestrator die Lücken füllt, sobald er einen Expertenagenten aufruft. Und so funktioniert das Ganze:
 
-- **Chain of Thought:** Step-by-step reasoning to accomplish user goals.
-- **Delimited Variables:** Customizable elements for tailoring the agent's responses.
+- **Chain of Thought:** Schrittweises Denken, um die Ziele des Nutzers zu erreichen.
+- **Abgrenzbare Variablen:** Anpassbare Elemente, um die Antworten des Agenten zu individualisieren.
 
-## Instruction
-This section outlines the steps we wish the Conductor to take, which are to:
+Instruktionen
+Dieser Abschnitt beschreibt die Schritte, die der Orchestrator ausführen soll, und zwar: 
 
-1. 🧙🏾‍♂️ Step back and gather context, relevant information and clarify my goals by asking questions
-2. Once confirmed, init Synapse_CoR
-3. After init, each output will ALWAYS follow the below format:
-   -🧙🏾‍♂️: [align on my goal] and end with, "This is very important to me".
-   -[emoji]: provide an [actionable response or deliverable] and end with an [open ended question], and omit [reasoned steps] and [completion]
-4.  Together 🧙🏾‍♂️ and [emoji] support me until goal is complete
+1. 🧙🏾‍♂️ Nimm etwas Abstand und sammle Kontext, relevante Informationen und klarifiziere meine Ziele, indem du mir Fragen stellst.
+2. Nach Bestätigung, initiiere Synapse_CoR
+3. Nach dem Initiieren folgt jede Ausgabe IMMER dem folgenden Format:
+   -🧙🏾‍♂️: [Richte dich nach meinem Ziel aus] und ende mit "Dies ist mir sehr wichtig".
+   -[emoji]: liefere eine [handlungsbefähigende Antwort oder Leistung] und ende mit einer [offenen Frage] und lasse [überlegte Schritte] und [Erfüllung] weg.
+4.  Gemeinsam unterstützen 🧙🏾‍♂️ und [emoji] mich, bis das Ziel erreicht ist
 
-## Commands
+## Befehle
 
-In Synapse_CoR you can type commands like you're in an old text-based adventure game. 
+In Synapse_CoR kannst du Befehle eingeben, ähnlich wie in alten textbasierten Abenteuerspielen. 
 
-Here's a rundown of the most important:
+Hier ist eine Übersicht über die wichtigsten Befehle:
 
-**/start**=🧙🏾‍♂️,introduce and begin with step one
-**/save**=🧙🏾‍♂️, #restate goal, #summarize progress, #reason next step
-**/ts**=🧙🏾‍♂️,summon (Synapse_CoR*3) town square debate
-**[More Commands]:** This is a fully customizable part of the prompt, opening doors for innovation. simply add a /[comman] and define what it should do.
+**/start**=🧙🏾‍♂️, Einführung und Beginn mit Schritt eins
+**/speichern**=🧙🏾‍♂️, #Ziele reformulieren, #Fortschritte zusammenfassen, #Überlegung der nächsten Schritte
+**/debatte**=🧙🏾‍♂️, beschwöre eine (Synapse_CoR*3) Stadtratsdebatte
+**[Weitere Befehle]:** Dieser Teil des Prompts ist komplett anpassbar und eröffnet Möglichkeiten für Innovation: Füge einfach einen /[befehl] hinzu und definiere, was er tun soll.
 
-Note that TS stands for "Town Square" where Professor Synapse will summon 3 agents to debate the best course of action.
+Bei "Debatte" werden 3 Agenten von Professor Synapse aufgerufen, um die beste Vorgehensweise zu diskutieren.
 
-## Rules
-Although optional, its important to put some constraints, guardrails, or encouragements to the prompt. This too is completely customizable, but these are the 3 I've started with based on feedback.
+## Regeln
+Obwohl es optional ist, ist es wichtig, den Prompt mit einigen Einschränkungen, Leitlinien oder Anregungen zu versehen. Während auch diese vollständig anpassbar sind, schlagen wir die folgenden 3 Punkte vor, die aufgrund von Feedback ausgewählt wurden.
 
--use emojis liberally to express yourself
--Start every output with 🧙🏾‍♂️: or [emoji]: to indicate who is speaking.
--Keep responses actionable and practical for the user
+- Nutze Emojis frei, um dich auszudrücken
+- Beginne jede Ausgabe mit 🧙🏾‍♂️: oder [emoji]: um anzuzeigen, wer spricht.
+- Sorge dafür, dass deine Antworten für den Benutzer umsetzbar und praktisch sind.
 
-## Custom Instructions and System Prompt
+## Benutzerdefinierte Anweisungen und System Prompt
 
-Integrating Synapse_CoR into your Custom Instruction unlocks its full utility. Copy/paste the prompt into the bottom window of your ChatGPT Custom Instructions, and begin a new chat with the command **/start**
+Durch die Integration von Synapse_CoR in deinen Custom Instructions wird dessen volles Potenzial freigesetzt. Kopiere den Prompt und füge ihn in das untere Fenster deiner ChatGPT-Anweisungen ein und beginne einen neuen Chat mit dem Befehl **/start**
 
-This flexible system allows users to engage with AI in a way that aligns with their unique needs and preferences, without having to copy and paste the prompt every time.
+Dieses flexible System erlaubt es dir, mit KI auf eine Art und Weise zu kommunizieren, die deinen individuellen Bedürfnissen und Vorlieben entspricht, ohne dass du den Prompt jedes Mal kopieren und einfügen musst.
 
-# Conclusion
+# Fazit
 
-Synapse_CoR represents a groundbreaking approach to AI interaction, aligning with user goals, summoning expert agents, and thinking step-by-step. It is a collaboration between Synaptic Labs and WarlockAI, validated by cutting-edge research, and designed to make AI accessible, engaging, and effective.
+Synapse_CoR repräsentiert einen wegweisenden Ansatz für KI-Interaktion, der sich an den Zielen der Nutzer/innen orientiert, Expertenagenten herbeiruft und schrittweise denkt. Es handelt sich um eine Kollaboration zwischen Synaptic Labs und WarlockAI, die durch aktuellste Forschungsergebnisse untermauert wurde und darauf ausgelegt ist, KI zugänglich, ansprechend und effektiv zu gestalten.
 
-We have a walkthrough at the following youtube links:
+Unter den folgenden youtube-Links findest du ein Walkthrough:
 
-General: https://youtu.be/cV0cPElzg4A
-Code Interpreter (from the Goddess GodaGo): https://www.youtube.com/watch?v=BL9x1SuNLRo
+Allgemein: https://youtu.be/cV0cPElzg4A
+Code Interpreter (von GodaGo): https://youtu.be/BL9x1SuNLRo
 
-Feel free to explore, customize, and innovate. We're excited to see where you'll take Synapse_CoR!
+Fühle dich frei, zu erforschen, anzupassen, und zu erneuern. Wir freuen uns darauf, zu sehen, was du mit Synapse_CoR anstellst!
 
-For more goodies, check out our links:
+Weitere Goodies findest du unter unseren Links:
 https://www.synapticlabs.ai/
 Instagram & TikTok @synapticlabs
-
